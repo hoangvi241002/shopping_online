@@ -7,7 +7,7 @@ const EmailUtil = require('../utils/EmailUtil');
 //DAOS
 const CategoryDAO = require('../models/CategoryDAO');
 const AdminDAO = require('../models/AdminDAO');
-const ProductDAO = require('../models/ProductDao');
+const ProductDAO = require('../models/ProductDAO');
 const OrderDAO = require('../models/OrderDAO');
 const CustomerDAO = require('../models/CustomerDAO');
 
